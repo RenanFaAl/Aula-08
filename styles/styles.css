@@ -1,0 +1,43 @@
+p{
+    font-size: 32px;
+    color:black;
+}
+div{
+    height: 100px;
+    width: 500px;
+    background-color: antiquewhite;
+}
+#meuDIV_ID{
+    height: 100px;
+    background-color: brown;
+    
+}
+.MeuDIV_Classe{
+    height: 70px;
+    width: 100px;
+}
+.MeuDIV_Classe2{
+
+    width: 100px;
+}
+.MeuDIV_Classe>p{
+    color: white !important;
+}
+.MeuDIV_Classe>.MeuDIV_Classe2{
+    width: 200px;
+}
+#mt{
+    margin-top: 5%;
+}
+#mb{
+    margin-bottom: 5%;
+}
+#mr{
+    margin-right: 5%;
+}
+#ml{
+    margin-left: 5%;
+}
+#margem{
+    margin: 5% 0% 0% 5%;
+}
